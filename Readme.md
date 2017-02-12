@@ -1,6 +1,6 @@
 # Gyaku
 
-I often reverse engineer minified javascript and css files and deobfuscate them. This little ruby script converts `sourcemap` files into source files.
+I often reverse engineer minified javascript/css bundles and deobfuscate them. This little ruby script converts `sourcemap` files into source files.
 
 ## Usage
 
